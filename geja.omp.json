@@ -24,17 +24,6 @@
           "type": "path"
         },
         {
-          "type": "php",
-          "style": "powerline",
-          "powerline_symbol": "",
-          "foreground": "#ffffff",
-          "background": "#0984e3",
-          "properties": {
-            "display_mode": "files",
-            "fetch_version": true
-          }
-        },
-        {
           "background": "#ffb86c",
           "foreground": "#f8f8f2",
           "powerline_symbol": "\ue0b0",
