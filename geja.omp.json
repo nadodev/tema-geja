@@ -34,20 +34,6 @@
           }
         },
         {
-          "type": "node",
-          "style": "powerline",
-          "powerline_symbol": "",
-          "foreground": "#ffffff",
-          "background": "#00b894"
-        },
-        {
-          "type": "php",
-          "style": "powerline",
-          "powerline_symbol": "",
-          "foreground": "#ffffff",
-          "background": "#0984e3"
-        },
-        {
           "type": "time",
           "style": "powerline",
           "powerline_symbol": "",
