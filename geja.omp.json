@@ -12,6 +12,16 @@
           "foreground": "#ffffff",
           "background": "#6c5ce7",
           "template": " {{ .PID }} "
+        },
+         {
+          "type": "path",
+          "style": "powerline",
+          "powerline_symbol": "",
+          "foreground": "#1e1e1e",
+          "background": "#a29bfe",
+          "properties": {
+            "style": "folder"
+          }
         }
       ]
     }
