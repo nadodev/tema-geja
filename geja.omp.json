@@ -45,7 +45,7 @@
           "type": "node"
         },
         {
-          "background": "#ff79c6",
+          "background": "#000",
           "foreground": "#f8f8f2",
           "options": {
             "time_format": "15:04"
